@@ -1,12 +1,12 @@
 <h2 align = center> hi, i'm kris! </h2>
 <h3 align = center> incoming swe intern @ ford motor company | cs @ notre dame </h3>
 
-<h4>professionally: </h4>
+### <h4>professionally: </h4>
 - computer science student at the university of notre dame
 - project lead for the data club
 - incoming swe intern @ ford motor company
 
-<h4>beyond the books: </h4>
+### <h4>beyond the books: </h4>
 - tenor singer in the notre dame glee club
 - fashion model for strike magazine
 - dancing with biggest hit
