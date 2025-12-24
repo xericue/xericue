@@ -10,6 +10,7 @@
 ### <h4>beyond the books: </h4>
 - tenor singer in the notre dame glee club
 - fashion model for strike magazine
+- arch linux user
 
 ### <h4>as of 12/24/2025: </h4>
 - current favorite artist: lucy bedroque
