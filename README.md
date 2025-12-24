@@ -14,6 +14,7 @@
 ### <h4>as of 12/24/2025: </h4>
 - current favorite artist: lucy bedroque
 - current favorite book: american psycho
+- current goal: love and learn as much as possible
 
 <!--
 **xericue/xericue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
