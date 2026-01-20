@@ -3,9 +3,8 @@
 ---
 
 ### who...
-- computer science student (he/they) at the university of notre dame
+- computer science student (they/them) at the university of notre dame
 - interested in software engineering, distributed systems, low-level systems, and machine learning/AI infrastructure
-- incoming swe intern @ ford motor company
 
 ### <h4>beyond the books: </h4>
 - tenor singer in the notre dame glee club
