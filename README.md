@@ -9,24 +9,9 @@
 ### <h4>beyond the books: </h4>
 - tenor singer in the notre dame glee club
 - fashion model for strike magazine
-- arch linux user
+- arch linux user, btw
 
 ### <h4>as of 12/24/2025: </h4>
-- current favorite artist: lucy bedroque
-- current favorite book: american psycho
-- current goal: love and learn as much as possible
-
-<!--
-**xericue/xericue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- current favorite artist: esdeekid
+- current favorite reading: [we turned ourselves into robots](https://notes.skula.me/Thoughts/Blog/We-Turned-Ourselves-Into-Robots)
+- current goal: build a very small website to store my mini-essays
