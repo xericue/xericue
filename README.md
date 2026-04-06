@@ -1,17 +1,16 @@
-<h2 align = center> hi, i'm xericue! </h2>
+<h2 align = center> hi, i'm xericue :] </h2>
 
 ---
 
 ### who...
-- computer science student (they/them) at the university of notre dame
-- interested in software engineering, distributed systems, infrastructure, low-latency programming, HPC, and machine learning/AI infrastructure
+- software engineer interested in low level programming, distributed systems, HPC, and machine learning/AI infrastructure
 
 ### <h4>beyond the books: </h4>
-- tenor singer in the notre dame glee club (sang in the Sagrada Familia!) 
-- fashion model for strike magazine
-- arch linux user, btw
+- tenor choral singer, sang in the Sagrada Familia
+- fashion model
+- soon to be an endeavourOS user, after my next midterm >_>
 
-### <h4>as of 3/4/2026: </h4>
-- current favorite artist: esdeekid
-- current favorite reading: [we turned ourselves into robots](https://notes.skula.me/Thoughts/Blog/We-Turned-Ourselves-Into-Robots)
-- current goal: build in C++ and rust to learn more about modern systems programming and infrastructure
+### <h4>as of 4/6/2026: </h4>
+- current favorite artist: lucy bedroque (huge fan of fête de la vanille)
+- current favorite reading: [build your own redis](https://build-your-own.org/redis/), soon to start Operating Systems: Three Easy Steps
+- current goal: build more of my TCP server in C++ to build a client server encrypted chat application
