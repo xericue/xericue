@@ -10,7 +10,7 @@
 - fashion model
 - soon to be an endeavourOS user, after my next midterm >_>
 
-### <h4>as of 4/6/2026: </h4>
-- current favorite artist: lucy bedroque (huge fan of fête de la vanille)
+### <h4>as of 4/24/2026: </h4>
+- current favorite artists: lucy bedroque, björk
 - current favorite reading: [build your own redis](https://build-your-own.org/redis/), soon to start Operating Systems: Three Easy Steps
 - current goal: build more of my TCP server in C++ to build a client server encrypted chat application
