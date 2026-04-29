@@ -3,7 +3,7 @@
 ---
 
 ### who...
-- software engineer interested in low level programming, distributed systems, HPC, and machine learning/AI infrastructure
+- software engineer interested in low level, systems programming, distributed systems, HPC, and machine learning/AI infrastructure
 
 ### <h4>beyond the books: </h4>
 - tenor choral singer, sang in the Sagrada Familia
@@ -13,4 +13,4 @@
 ### <h4>as of 4/24/2026: </h4>
 - current favorite artists: lucy bedroque, björk
 - current favorite reading: [build your own redis](https://build-your-own.org/redis/), soon to start Operating Systems: Three Easy Steps
-- current goal: build more of my TCP server in C++ to build a client server encrypted chat application
+- current goal: convert my weekend database project to modern C++ :)
