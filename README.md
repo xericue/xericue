@@ -11,6 +11,6 @@
 - soon to be an endeavourOS user, after my next midterm >_>
 
 ### <h4>as of 4/24/2026: </h4>
-- current favorite artists: lucy bedroque, björk
+- current favorite artists: björk, the anchor song is the most wondrous song ive ever heard
 - current favorite reading: [build your own redis](https://build-your-own.org/redis/), soon to start Operating Systems: Three Easy Steps
 - current goal: convert my weekend database project to modern C++ :)
