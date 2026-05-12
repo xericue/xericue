@@ -8,9 +8,11 @@
 ### <h4>beyond the books: </h4>
 - tenor choral singer, sang in the Sagrada Familia
 - fashion model
-- soon to be an endeavourOS user, after my next midterm >_>
+- arch + hyprland :)
 
-### <h4>as of 4/24/2026: </h4>
-- current favorite artists: björk, the anchor song is the most wondrous song ive ever heard
-- current favorite reading: [build your own redis](https://build-your-own.org/redis/), soon to start Operating Systems: Three Easy Steps
-- current goal: convert my weekend database project to modern C++ :)
+### <h4>as of 5/12/2026: </h4>
+- current favorite song: the anchor song - björk 
+- current favorite reading: [DDIA](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- current goal(s): 
+  - [ ] java + spring
+  - [ ] convert mitoDB to C++20
