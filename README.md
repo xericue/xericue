@@ -10,9 +10,9 @@
 - fashion model
 - arch + hyprland :)
 
-### <h4>as of 5/12/2026: </h4>
+### <h4>as of 5/20/2026: </h4>
 - current favorite song: the anchor song - björk 
 - current favorite reading: [DDIA](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - current goal(s): 
-  - [ ] java + spring
-  - [ ] convert mitoDB to C++20
+  - [ ] java/kotlin + spring, RUST !?
+  - [ ] convert mitoDB to C++
