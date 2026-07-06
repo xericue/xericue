@@ -1,17 +1,17 @@
-<h2 align = center> hi, i'm xericue :] </h2>
+<h2 align = center> xericue </h2>
 
 ---
 
 ### <h4>interests <h4>
-- software engineer interested in systems programming, simulation, and machine learning
+- machine learning, systems programming, and simulation
 
-### <h4>activities </h4>
-- tenor choral singer, sang in the Sagrada Familia
+### <h4>miscellaneous </h4>
+- tenor choral singer
 - fashion model
-- arch + hyprland :)
+- arch + hyprland
 
 ### <h4>as of 7/6/2026 </h4>
-- favorite song: the anchor song - björk 
+- favorite song: the anchor song - björk
 - favorite reading: [DDIA](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - goal(s): 
   - [ ] probabilistic data structures
