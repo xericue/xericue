@@ -2,17 +2,17 @@
 
 ---
 
-### who...
-- software engineer interested in low level, systems programming, distributed systems, HPC, and machine learning/AI infrastructure
+### <h4>interests <h4>
+- software engineer interested in systems programming, simulation, and machine learning
 
-### <h4>beyond the books: </h4>
+### <h4>activities </h4>
 - tenor choral singer, sang in the Sagrada Familia
 - fashion model
 - arch + hyprland :)
 
-### <h4>as of 5/20/2026: </h4>
-- current favorite song: the anchor song - björk 
-- current favorite reading: [DDIA](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- current goal(s): 
-  - [ ] java/kotlin + spring, RUST !?
-  - [ ] convert mitoDB to C++
+### <h4>as of 7/6/2026 </h4>
+- favorite song: the anchor song - björk 
+- favorite reading: [DDIA](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- goal(s): 
+  - [ ] probabilistic data structures
+  - [ ] MNIST
