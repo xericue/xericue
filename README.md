@@ -2,7 +2,7 @@
 
 ---
 
-### <h4>interests <h4>
+### <h4>interests </h4>
 - machine learning, systems programming, and simulation
 
 ### <h4>miscellaneous </h4>
