@@ -12,7 +12,7 @@
 
 ### <h4>as of 7/6/2026 </h4>
 - favorite song: the anchor song - björk
-- favorite reading: [DDIA](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- favorite reading: CS229
 - goal(s): 
   - [ ] probabilistic data structures
   - [ ] MNIST
